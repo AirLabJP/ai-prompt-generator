@@ -4,13 +4,13 @@ ChatGPT用のプロンプトテンプレート生成ツールです。
 
 ## 概要
 
-このツールは、ユーザーの入力をもとにChatGPTに最適化されたプロンプトテンプレート（#FMT）を生成します。
+このツールは、ユーザーの入力をもとにChatGPTに最適化されたプロンプトテンプレート（#FMT）を生成します。                                                          
 
 ## ファイル構成
 
 - `ai-prompt-generator2` - メインのプロンプト生成スクリプト（改良版）
 - `ai-pronpt-generator` - 基本版のプロンプト生成スクリプト
-- `cover_IT_Infrastructure_Document_Quality_Standards.docx` - ITインフラ文書品質基準
+- `cover_IT_Infrastructure_Document_Quality_Standards.docx` - ITインフラ文書品質基準                                                                            
 
 ## 使用方法
 
@@ -27,4 +27,4 @@ ChatGPT用のプロンプトテンプレート生成ツールです。
 
 ## ライセンス
 
-MIT License
+なし
